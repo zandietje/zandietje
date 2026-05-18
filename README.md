@@ -10,7 +10,7 @@ I build AI-driven products and high-reliability distributed systems.
 
 ### 🏢 Currently
 
-**Co-founder & lead engineer @ PlotSolutions** — AI-powered B2B SaaS (Belgium).
+**Co-founder @ PlotSolutions** — AI-powered B2B SaaS (Belgium).
 
 ---
 
