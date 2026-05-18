@@ -1,58 +1,38 @@
-## Hi, I'm Alexander Verschelde 👋  
+## Hi, I'm Alexander Verschelde 👋
 
-🚀 Full-stack software engineer  
-⚙️ .NET • C# • Blazor • React • Supabase • NATS • GPT-powered Systems  
-📍 Belgium • Working remotely worldwide  
+🚀 Technical co-founder & senior .NET engineer
+⚙️ .NET • C# • React • TypeScript • Azure • LLM-powered systems
+📍 Bangkok 🇹🇭 • Belgian, working remotely
 
-I build **high-reliability distributed systems**, including:
-
-- ⚡ Algorithmic trading engines (live + backtesting + optimizers)  
-- 🏗️ Enterprise-grade .NET architectures  
-- 📊 Real-time dashboards, MES integrations, distributed pipelines  
-- 🤖 LLM-powered automation tools (MCP, RAG, AI agents)  
+I build AI-driven products and high-reliability distributed systems.
 
 ---
 
-### 🔥 Featured Project  
-**Alphiq 2.0 — Intelligent Algorithmic Trading Platform (Full rewrite)**  
-- Unified trading engine  
-- Distributed backtesting cluster  
-- LLM-assisted development workflow (PRP, MCP, AI agents)  
-- Blazor UI, .NET Aspire multi-service architecture  
-- NATS JetStream messaging  
-- Supabase/PostgreSQL data layer  
+### 🏢 Currently
 
-🔗 [View Repository →](https://github.com/zandietje/alphiq2.0)
+**Co-founder & lead engineer @ PlotSolutions** — AI-powered B2B SaaS (Belgium).
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Backend:**  
-`.NET 8/9/10 • C# • Supabase/PostgreSQL • Redis • NATS JetStream • ASP.NET Minimal APIs • gRPC`
-
-**Frontend:**  
-`Blazor • React • TypeScript • Vite`
-
-**DevOps:**  
-`Docker • Aspire • Testcontainers • GitHub Actions`
-
-**AI & Automation:**  
-`Claude Code • MCP servers • RAG systems • Python uv • PRP process`
+**Backend:** `.NET 8/9 • C# • EF Core • PostgreSQL • Azure`
+**Frontend:** `React • TypeScript • Vite • Tailwind`
+**AI:** `Claude Code • MCP servers • RAG • multi-agent orchestration`
 
 ---
 
-### 📈 What I’m Currently Building  
-- Alphiq 2.0 trading engine v2  
-- Distributed backtesting/optimization worker  
-- AI-assisted dev tools (PRP framework with MCP)  
+### 🏗️ How I build
+
+Clean architecture and SOLID where it earns its keep — no YAGNI scaffolding,
+no clever abstractions for problems that don't exist yet. Code that's still
+readable a year later, in a system that doesn't surprise you in prod.
 
 ---
 
-### 🤝 I’m Open For  
-- Freelance .NET / AI / Trading / MES work  
-- Building LLM-driven developer tooling  
-- Real-time systems and high-performance architectures  
+### ✨ Beyond code
 
-📩 **Contact:**  
-[LinkedIn]([your-link](https://www.linkedin.com/in/alexander-verschelde-238171120/)) • Email • Website (optional)
+Coffee, the gym, good food around Bangkok, and a soft spot for any
+system that quietly does its job at 3 AM without waking anyone up.
+
+📩 [LinkedIn](https://www.linkedin.com/in/alexander-verschelde-238171120/) • Always up for a chat.
