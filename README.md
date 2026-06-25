@@ -1,7 +1,7 @@
 ## Hi, I'm Alexander Verschelde 👋
 
 🚀 Technical co-founder & senior .NET engineer
-⚙️ .NET • C# • React • TypeScript • Azure • LLM-powered systems
+⚙️ .NET • C# • React • TypeScript • Python • Azure • LLM-powered systems
 📍 Bangkok 🇹🇭 • Belgian, working remotely
 
 I build AI-driven products and high-reliability distributed systems.
